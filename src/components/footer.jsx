@@ -10,7 +10,7 @@ export default function Footer() {
               <a href="https://github.com/timdreesen">
                 <img
                   className="social-logo"
-                  src="src/assets/github-mark-white.svg"
+                  src="/github-mark-white.svg"
                   alt="github logo"
                 />
               </a>

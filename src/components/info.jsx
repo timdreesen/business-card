@@ -1,11 +1,7 @@
 export default function Info() {
   return (
     <>
-      <img
-        className="profile"
-        src="./src/assets/tim.webp"
-        alt="A portrait image of Tim"
-      />
+      <img className="profile" src="/tim.webp" alt="A portrait image of Tim" />
       <div className="content">
         <h1 className="title">Tim Dreesen</h1>
         <p className="job-title">Full Stack Developer</p>
